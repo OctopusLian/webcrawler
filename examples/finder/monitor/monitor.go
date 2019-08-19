@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	sched "webcrawler/scheduler"
+	sched "github.com/programming-book-practice/webcrawler/scheduler"
 	"github.com/log"
 )
 

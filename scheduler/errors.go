@@ -1,9 +1,9 @@
 package scheduler
 
 import (
-	"webcrawler/errors"
-	"webcrawler/module"
-	"webcrawler/toolkit/buffer"
+	"github.com/programming-book-practice/webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/toolkit/buffer"
 )
 
 // genError 用于生成爬虫错误值。

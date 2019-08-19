@@ -3,9 +3,9 @@ package analyzer
 import (
 	"fmt"
 
-	"webcrawler/module"
-	"webcrawler/module/stub"
-	"webcrawler/toolkit/reader"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module/stub"
+	"github.com/programming-book-practice/webcrawler/toolkit/reader"
 	"github.com/log"
 )
 

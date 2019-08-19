@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/goquery"
-	"webcrawler/module"
-	"webcrawler/module/local/analyzer"
-	"webcrawler/module/local/downloader"
-	"webcrawler/module/local/pipeline"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module/local/analyzer"
+	"github.com/programming-book-practice/webcrawler/module/local/downloader"
+	"github.com/programming-book-practice/webcrawler/module/local/pipeline"
 )
 
 func TestArgsRequest(t *testing.T) {

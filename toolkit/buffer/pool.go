@@ -5,7 +5,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/errors"
 )
 
 // Pool 代表数据缓冲池的接口类型。

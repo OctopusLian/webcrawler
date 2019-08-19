@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"webcrawler/errors"
-	"webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/module"
 	"github.com/log"
 )
 

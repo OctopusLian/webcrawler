@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	lib "webcrawler/examples/finder/internal"
-	"webcrawler/examples/finder/monitor"
-	sched "webcrawler/scheduler"
+	lib "github.com/programming-book-practice/webcrawler/examples/finder/internal"
+	"github.com/programming-book-practice/webcrawler/examples/finder/monitor"
+	sched "github.com/programming-book-practice/webcrawler/scheduler"
 	"github.com/log"
 )
 

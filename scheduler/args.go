@@ -1,6 +1,6 @@
 package scheduler
 
-import "webcrawler/module"
+import "github.com/programming-book-practice/webcrawler/module"
 
 // Args 代表参数容器的接口类型。
 type Args interface {

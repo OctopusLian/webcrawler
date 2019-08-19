@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/goquery"
-	"webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module"
 )
 
 // genResponseParses 用于生成响应解析器。

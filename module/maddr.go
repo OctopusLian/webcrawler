@@ -5,7 +5,7 @@ import (
 	"net"
 	"strconv"
 
-	"webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/errors"
 )
 
 // mAddr 代表组件网络地址的类型。

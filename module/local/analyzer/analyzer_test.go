@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"webcrawler/module"
-	"webcrawler/module/stub"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module/stub"
 )
 
 // testingReader 代表测试专用的读取器，实现了io.ReadCloser接口类型。

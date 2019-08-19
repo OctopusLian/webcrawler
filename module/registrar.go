@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/errors"
 )
 
 // Registrar 代表组件注册器的接口。

@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	"webcrawler/module"
-	"webcrawler/module/stub"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module/stub"
 )
 
 func TestNew(t *testing.T) {

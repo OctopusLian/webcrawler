@@ -5,7 +5,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/errors"
 )
 
 // Buffer 代表FIFO的缓冲器的接口类型。

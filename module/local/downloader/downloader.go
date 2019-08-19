@@ -3,8 +3,8 @@ package downloader
 import (
 	"net/http"
 
-	"webcrawler/module"
-	"webcrawler/module/stub"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module/stub"
 	"github.com/log"
 )
 

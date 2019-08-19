@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	werrors "webcrawler/errors"
-	"webcrawler/toolkit/buffer"
-	"webcrawler/module"
+	werrors 	"github.com/programming-book-practice/webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/toolkit/buffer"
+	"github.com/programming-book-practice/webcrawler/module"
 )
 
 func TestErrorGen(t *testing.T) {

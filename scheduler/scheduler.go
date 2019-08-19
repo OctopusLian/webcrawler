@@ -8,9 +8,9 @@ import (
 	"strings"
 	"sync"
 
-	"cmap"
-	"webcrawler/module"
-	"webcrawler/toolkit/buffer"
+	"github.com/programming-book-practice/cmap"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/toolkit/buffer"
 	"github.com/log"
 )
 

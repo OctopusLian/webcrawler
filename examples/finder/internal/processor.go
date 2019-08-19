@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module"
 )
 
 // genItemProcessors 用于生成条目处理器。

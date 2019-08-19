@@ -3,7 +3,7 @@ package stub
 import (
 	"testing"
 
-	"webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module"
 )
 
 // addrStr 代表测试用的网络地址。

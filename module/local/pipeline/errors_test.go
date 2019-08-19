@@ -3,7 +3,7 @@ package pipeline
 import (
 	"testing"
 
-	"webcrawler/errors"
+	"github.com/programming-book-practice/webcrawler/errors"
 )
 
 func TestErrorGenError(t *testing.T) {

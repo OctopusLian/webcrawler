@@ -3,8 +3,8 @@ package pipeline
 import (
 	"fmt"
 
-	"webcrawler/module"
-	"webcrawler/module/stub"
+	"github.com/programming-book-practice/webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module/stub"
 	"github.com/log"
 )
 

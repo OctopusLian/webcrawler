@@ -3,7 +3,7 @@ package scheduler
 import (
 	"testing"
 
-	"webcrawler/module"
+	"github.com/programming-book-practice/webcrawler/module"
 )
 
 func TestSummaryNew(t *testing.T) {
